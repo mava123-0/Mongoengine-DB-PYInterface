@@ -7,5 +7,6 @@ MongoEngine is available on PyPI, so you can use pip:
 python -m pip install mongoengine
 
 Requirements:
+Mongoengine Installed
 Requires a database named ShopDB in MongoDB in your localhost to connect using Mongoengine.
 You can perform the CRUD operations on the Database using this interface.
